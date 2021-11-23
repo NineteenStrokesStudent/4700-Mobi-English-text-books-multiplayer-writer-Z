@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6847</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c030abd0-9d75-4bf7-966e-3beaf41ec342</dc:identifier>
+        <dc:title>Finding Nouf</dc:title>
+        <dc:creator opf:file-as="Ferraris, Zoë" opf:role="aut">Zoë Ferraris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-14T04:29:03.438000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Zoë Ferraris’s electrifying debut of taut psychological suspense offers an unprecedented window into Saudi Arabia and the lives of men and women there. When sixteen-year-old Nouf goes missing, along with a truck and her favorite camel, her prominent family calls on Nayir al-Sharqi, a desert guide, to lead a search party. Ten days later, just as Nayir is about to give up in frustration, her body is discovered by anonymous desert travelers. But when the coroner’s office determines that Nouf died not of dehydration but from drowning, and her family seems suspiciously uninterested in getting at the truth, Nayir takes it upon himself to find out what really happened to her.    This mission will push gentle, hulking, pious Nayir, a Palestinian orphan raised by his bachelor uncle, to delve into the secret life of a rich, protected teenage girl -- in one of the most rigidly gender-segregated of Middle Eastern societies. Initially horrified at the idea of a woman bold enough to bare her face and to work in public, Nayir soon realizes that if he wants to gain access to the hidden world of women, he will have to join forces with Katya Hijazi, a lab worker at the coroner’s office. Their partnership challenges Nayir, bringing him face to face with his desire for female companionship and the limitations imposed by his beliefs. It also ultimately leads them both to surprising revelations. Fast-paced and utterly transporting, Finding Nouf offers an intimate glimpse inside a closed society and a riveting literary mystery.</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780618873883</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-30T04:28:08.372000+00:00" name="calibre:timestamp"/>
+        <meta content="Finding Nouf" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
